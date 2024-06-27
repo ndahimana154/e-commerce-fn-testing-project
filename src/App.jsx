@@ -9,7 +9,7 @@ function App() {
     <>
       <div>
         <a href="https://vitejs.dev" target="_blank">
-          Welcome to our home
+          Welcome to our home testing version of React 2 Native
         </a>
         <a href="https://react.dev" target="_blank">
         </a>
